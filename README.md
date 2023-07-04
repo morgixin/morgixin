@@ -3,22 +3,18 @@ I'm a frontend dev and game dev enthusiast and Computer Science student at Unive
 
 ---
 
-
-<br>
-<div id="lang-stats" align="center" display="flex" justify-content="space-around">
- <div>
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgixin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morgixin&theme=dark&background=000000)](https://git.io/streak-stats)
- </div>
-
+<div align="center">
+ 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgixin&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)    |    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morgixin&theme=dark&background=000000&theme=transparent)](https://git.io/streak-stats) |
+| ---------------|-----------------------|
+ 
   <div id="badges">
     <a href="https://www.linkedin.com/in/ana-ferreira-92339417b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>  
   </div>
 </div>
+
 <br>
 <br>
 
