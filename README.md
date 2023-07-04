@@ -7,7 +7,6 @@ I'm a frontend dev and game dev enthusiast and Computer Science student at Unive
  
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgixin&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)    |    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morgixin&theme=dark&background=000000&theme=transparent)](https://git.io/streak-stats) |
 | ---------------|-----------------------|
- 
  <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ana-ferreira-92339417b/">
@@ -16,12 +15,9 @@ I'm a frontend dev and game dev enthusiast and Computer Science student at Unive
   </div>
 </div>
 
-<br>
-<br>
 
 ---
 <br>
-
 <div align="center">
 
   
