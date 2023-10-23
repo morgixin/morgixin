@@ -12,6 +12,7 @@ I'm a frontend dev and game dev enthusiast and Computer Science student at Unive
     <a href="https://www.linkedin.com/in/ana-ferreira-92339417b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+   &nbsp;
     <a href="https://taruchii.itch.io">
       <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io Badge"/>
     </a>
