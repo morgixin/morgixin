@@ -1,5 +1,5 @@
 ### 👾 Hi!
-I'm a frontend and game dev enthusiast and a Computer Science student at Universidade Federal Fluminense.
+I'm a frontend and game dev enthusiast and Computer Science student at Universidade Federal Fluminense.
 
 ---
 
