@@ -1,8 +1,11 @@
-<h3>👾 Hi!</h3>
+<h2>👾 Hi!</h2>
 I'm a frontend and game dev enthusiast and Computer Science student at Universidade Federal Fluminense.
 
 
----
+
+
+<h2>My stats</h2>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" text-decoration="none">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgixin&layout=compact&theme=transparent" alt="Top Langs" />
@@ -31,11 +34,10 @@ I'm a frontend and game dev enthusiast and Computer Science student at Universid
  </table>
 </div>
 
----
 
+<h2>Check out my other media!</h2>
+<br>
 <div align="center">
- Check out my other media
- <br><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ana-ferreira-92339417b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -47,6 +49,9 @@ I'm a frontend and game dev enthusiast and Computer Science student at Universid
 </div>
  <br>
 <div>
- <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" height=250/>
+  <figure>
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" height=300/><br><br>
+    <figcaption>working working working...</figcaption>
+  </figure>
 </div>
 </div>
