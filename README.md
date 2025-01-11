@@ -1,5 +1,6 @@
 <h2>👾 Hi!</h2>
-I'm a frontend and game dev and Computer Science student at Universidade Federal Fluminense.
+I'm Ana, a passionate developer dedicated to bringing ideas to life. 
+Also a Computer Science student at Universidade Federal Fluminense.
 
 
 
@@ -17,6 +18,7 @@ I'm a frontend and game dev and Computer Science student at Universidade Federal
 </div>
 <br><br>
 
+<!--
 <div align=center>
  <table>
   <tr>
@@ -33,7 +35,7 @@ I'm a frontend and game dev and Computer Science student at Universidade Federal
   </tr>
  </table>
 </div>
-
+-->
 
 <h2>Check out my other media!</h2>
 <br>
