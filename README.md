@@ -2,6 +2,8 @@
 I'm Ana, a passionate developer dedicated to bringing ideas to life. 
 Also a Computer Science student at Universidade Federal Fluminense.
 
+Interested in development, cybersec and cloud computing.
+
 
 
 ### Languages
